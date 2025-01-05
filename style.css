@@ -1,0 +1,31 @@
+h1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 35px;
+    text-align: center;
+}
+
+h2{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 27px;
+}
+
+ul{
+    font-size: 25px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: center;
+}
+
+p{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.ingredients, .instructions{
+    font-size: 17px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    align-items: start;
+}
+
+img{
+    text-align: center;
+}
